@@ -1,0 +1,26 @@
+body {
+    padding: 20px 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #D4C2FC;
+}
+.container {
+    border: 3px solid white;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+.canvas {
+    position: absolute;
+    top: 0;
+}
+.form {
+    padding: 20px;
+}
