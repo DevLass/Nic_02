@@ -4,7 +4,7 @@ body {
     background-color: #302c34;
 }
 .container {
-    border: 3px solid white;
+    border: 3px solid #302c34;
     border-radius: 5px;
     color: white;
     position: relative;
@@ -24,4 +24,5 @@ body {
 .form {
     padding: 20px;
 }
+
 
