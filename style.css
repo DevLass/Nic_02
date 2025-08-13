@@ -1,6 +1,6 @@
 body {
     padding: 20px 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #191919;
 }
 .container {
@@ -24,7 +24,3 @@ body {
 .form {
     padding: 20px;
 }
-
-
-
-
